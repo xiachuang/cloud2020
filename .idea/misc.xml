@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_api_commons/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consumer_order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_euraka_server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_eureka_server7002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_provider_payment8002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_provider_payment8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consumer_order_80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consul_provider_pay8005/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consumer_consul_order_80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_zookeeper_provider_payment8006/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_zookeeper_consumer_order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consumer_fegin_order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_provider_hystrix_payment8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consumer_feign_hystrix_order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_hystrix_dashbord_9001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_gateway_gateway9527/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_config_client3344/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_config_client3355/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_config_client3366/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

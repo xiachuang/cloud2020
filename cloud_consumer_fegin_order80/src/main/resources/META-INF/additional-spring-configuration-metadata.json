@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "logging.config.at.guigu.springcloud.service.OrdersService",
+      "type": "java.lang.String",
+      "description": "Description for logging.config.at.guigu.springcloud.service.OrdersService."
+  }
+] }

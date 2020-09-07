@@ -1,0 +1,12 @@
+server:
+  port: 80
+spring:
+  application:
+    name: cloud-consumer80
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: cunsumer80
+  client:
+    service-url:
+      defaultZone: http://eureka7002.com:7002/eureka,http://eureka7002.com:7002/eureka
