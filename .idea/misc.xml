@@ -27,6 +27,9 @@
         <option value="$PROJECT_DIR$/cloud_config_client3344/pom.xml" />
         <option value="$PROJECT_DIR$/cloud_config_client3355/pom.xml" />
         <option value="$PROJECT_DIR$/cloud_config_client3366/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_stream_provider8801/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_stream_consumer8802/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_stream_consumer8803/pom.xml" />
       </list>
     </option>
   </component>

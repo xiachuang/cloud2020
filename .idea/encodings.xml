@@ -18,6 +18,9 @@
     <file url="file://$PROJECT_DIR$/cloud_provider_hystrix_payment8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_provider_payment8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_provider_payment8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_consumer8802/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_consumer8803/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_provider8801/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_zookeeper_consumer_order80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_zookeeper_provider_payment8006/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
