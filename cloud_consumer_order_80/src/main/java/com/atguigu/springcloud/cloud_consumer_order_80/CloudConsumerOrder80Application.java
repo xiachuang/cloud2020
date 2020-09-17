@@ -11,7 +11,6 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
 //@EnableEurekaClient
 @EnableDiscoveryClient
 @RibbonClient(name = "CLOUD-PAYNAME-SERVER",configuration = MyRuleConfig.class) // 启用自定义负载均衡算法时  需要将该注解注释
-
 public class CloudConsumerOrder80Application {
 
     public static void main(String[] args) {

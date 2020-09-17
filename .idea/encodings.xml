@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloud_alibaba_consumer_order8083/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_alibaba_provider_payment9002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_api_commons/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_config_client3344/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_config_client3355/src/main/java" charset="UTF-8" />
@@ -23,6 +25,8 @@
     <file url="file://$PROJECT_DIR$/cloud_stream_provider8801/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_zookeeper_consumer_order80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_zookeeper_provider_payment8006/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba_config_nacos_client3377/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba_provider_payment9001/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -7,13 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud_consumer_consul_order_80" />
         <module name="cloud_config_client3344" />
         <module name="cloud_consul_provider_pay8005" />
-        <module name="cloud_hystrix_dashbord_9001" />
         <module name="cloud_zookeeper_provider_payment8006" />
         <module name="cloud_config_client3355" />
-        <module name="cloud_stream_consumer8802" />
-        <module name="cloud_euraka_server7001" />
+        <module name="cloud_zookeeper_consumer_order80" />
+        <module name="cloud_consumer_order_80" />
+        <module name="cloud_alibaba_provider_payment9002" />
+        <module name="cloud_consumer_feign_hystrix_order80" />
         <module name="cloud_config_client3366" />
         <module name="cloud_provider_consul_payment8005" />
         <module name="cloud_eureka_server7002" />
@@ -21,14 +23,16 @@
         <module name="cloud_provider_payment8002" />
         <module name="cloud_provider_payment8001" />
         <module name="cloud_consumer_fegin_order80" />
-        <module name="cloud_consumer_feign_hystrix_order80" />
+        <module name="cloud_euraka_server7001" />
+        <module name="cloudalibaba_provider_payment9001" />
+        <module name="cloudalibaba_config_nacos_client3377" />
         <module name="cloud_api_commons" />
         <module name="cloud_provider_hystrix_payment8001" />
         <module name="cloud_stream_consumer8803" />
-        <module name="cloud_consumer_order_80" />
-        <module name="cloud_zookeeper_consumer_order80" />
+        <module name="cloud_stream_consumer8802" />
         <module name="cloud_stream_provider8801" />
-        <module name="cloud_consumer_consul_order_80" />
+        <module name="cloud_alibaba_consumer_order8083" />
+        <module name="cloud_hystrix_dashbord_9001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,6 +42,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud_alibaba_consumer_order8083" options="-parameters" />
+      <module name="cloud_alibaba_provider_payment9002" options="-parameters" />
       <module name="cloud_api_commons" options="-parameters" />
       <module name="cloud_config_client3344" options="-parameters" />
       <module name="cloud_config_client3355" options="-parameters" />
@@ -61,6 +67,8 @@
       <module name="cloud_stream_provider8801" options="-parameters" />
       <module name="cloud_zookeeper_consumer_order80" options="-parameters" />
       <module name="cloud_zookeeper_provider_payment8006" options="-parameters" />
+      <module name="cloudalibaba_config_nacos_client3377" options="-parameters" />
+      <module name="cloudalibaba_provider_payment9001" options="-parameters" />
     </option>
   </component>
 </project>
